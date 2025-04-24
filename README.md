@@ -94,10 +94,4 @@ Custom icons and images used in dashboard design.
 - **Top Customers**:  
   A small set of customers generated significant profit, ideal for upsell campaigns.
 
----
 
-## Future Enhancements
-
-- Connect to live data sources for real-time metrics.
-- Implement forecasting models for sales and churn.
-- Add customer segmentation using RFM or clustering techniques.
